@@ -16,4 +16,4 @@ There is also a built-in version of ViT model which was trained on ImageNet-21k 
 ResNet18 with 3 epochs has been trained on the dataset.
 
 ## Results
-<img src="res.png" alt="pic" width="600" height="400">
+<img src="res.png" alt="pic" width="500" height="400">
